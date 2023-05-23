@@ -1,8 +1,8 @@
 env:
 - namespace: "backstage"
-  companyname: "ACME Inc"
+  companyname: "HCA Test"
   gitopsnamespace: "janus-argocd"
-  gitopsinfranamespace: "infra-argocd"
+  gitopsinfranamespace: "janus-infra-argocd"
   pipelinesnamespace: "janus-pipelines"
   vaultconfignamespace: "vault-config-operator"
   vaultnamespace: "vault"
